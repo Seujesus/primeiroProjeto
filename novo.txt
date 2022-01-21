@@ -1,0 +1,6 @@
+Primeiro Arquivo
+
+adicionar todos os arquivos
+
+git add .
+
