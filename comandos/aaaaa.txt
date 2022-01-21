@@ -1,0 +1,11 @@
+
+adicionar todos os arquivos
+
+git add .
+
+
+
+
+
+Clonar conteudo do repositorio
+git clone <link repositorio>
