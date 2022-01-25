@@ -9,3 +9,7 @@ git add .
 
 Clonar conteudo do repositorio
 git clone <link repositorio>
+
+mudar branch
+
+git branch -m main
