@@ -13,3 +13,8 @@ git clone <link repositorio>
 mudar branch
 
 git branch -m main
+
+caso git branch -m master dar erro
+
+git merge origin/master
+git push -u origin master
